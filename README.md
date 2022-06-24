@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **SamSepehri/samsepehri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, My name is Sam
+# Hello there 👋, My name is Sam
 
 <p>
 a web developer with a strong network administration background. Through my work as an IT specialist for system integration, I became a conceptual thinker with deep and broad knowledge in the areas of information technology and computer networking. For scripts I'm writing I primarily use React and Node.js.<br>
