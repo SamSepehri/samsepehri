@@ -27,9 +27,9 @@ As a network administrator, it was always my dream to become a creative web deve
 ### Learn more about me & feel free to connect with me:
 
 [![Portfolio Page](https://img.shields.io/badge/WWW-Portfolio%20Page-cc4e56?style=flat-square&link=http://www.samsepehri.com)](http://www.samsepehri.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Eva%20Greiner--Anzenbacher-0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sam-sepehri-90b6a3146)](https://www.linkedin.com/in/sam-sepehri-90b6a3146)
-[![Twitter Badge](https://img.shields.io/badge/-eva__grean-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/SamSepehri1)](https://https://twitter.com/SamSepehri1)
+[![Linkedin Badge](https://img.shields.io/badge/-Sam%20Sepehri--0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sam-sepehri-90b6a3146)](https://www.linkedin.com/in/sam-sepehri-90b6a3146)
+[![Twitter Badge](https://img.shields.io/badge/-sam__sepehri-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/SamSepehri1)](https://https://twitter.com/SamSepehri1)
 [![DEV Badge](https://img.shields.io/badge/-_evagrean-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white&link=https://dev.to/samsepehri)](https://dev.to/samsepehri)
-[![Gmail Badge](https://img.shields.io/badge/-greiner.anzenbacher@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:greiner.anzenbacher@gmail.com)](mailto:greiner.anzenbacher@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-greiner.anzenbacher@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sam.sepehri.64@gmail.com)](mailto:sam.sepehri.64@gmail.com)
 
 ![Profile last updated](https://img.shields.io/github/last-commit/evagrean/evagrean/main?label=Last%20updated&style=flat-square)
