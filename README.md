@@ -24,7 +24,7 @@ As a network administrator, it was always my dream to become a creative web deve
 
 ---
 
-### Learn more about me & feel free to connect with me:
+### Learn more about me & don't hesitate to contact me:
 
 [![Portfolio Page](https://img.shields.io/badge/www.SamSepehri.com-cc4e56?style=flat-square&link=http://www.samsepehri.com)](http://www.samsepehri.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Sam%20Sepehri--0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sam-sepehri-90b6a3146)](https://www.linkedin.com/in/sam-sepehri-90b6a3146)
