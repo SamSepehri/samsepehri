@@ -32,4 +32,3 @@ As a network administrator, it was always my dream to become a creative web deve
 [![DEV Badge](https://img.shields.io/badge/-_samsepehri-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white&link=https://dev.to/samsepehri)](https://dev.to/samsepehri)
 [![Gmail Badge](https://img.shields.io/badge/-sam.sepehri.64@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sam.sepehri.64@gmail.com)](mailto:sam.sepehri.64@gmail.com)
 
-![Profile last updated](https://img.shields.io/github/last-commit/evagrean/evagrean/main?label=Last%20updated&style=flat-square)
