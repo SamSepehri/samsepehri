@@ -30,6 +30,6 @@ As a network administrator, it was always my dream to become a creative web deve
 [![Linkedin Badge](https://img.shields.io/badge/-Sam%20Sepehri--0072b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sam-sepehri-90b6a3146)](https://www.linkedin.com/in/sam-sepehri-90b6a3146)
 [![Twitter Badge](https://img.shields.io/badge/-sam__sepehri-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/SamSepehri1)](https://https://twitter.com/SamSepehri1)
 [![DEV Badge](https://img.shields.io/badge/-_samsepehri-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white&link=https://dev.to/samsepehri)](https://dev.to/samsepehri)
-[![Gmail Badge](https://img.shields.io/badge/-greiner.anzenbacher@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sam.sepehri.64@gmail.com)](mailto:sam.sepehri.64@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sam.sepehri.64@gmail.com-c71610?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sam.sepehri.64@gmail.com)](mailto:sam.sepehri.64@gmail.com)
 
 ![Profile last updated](https://img.shields.io/github/last-commit/evagrean/evagrean/main?label=Last%20updated&style=flat-square)
